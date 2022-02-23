@@ -12,6 +12,10 @@ Board Infinty Assignment 1
 
 - Download or clone the repository Website : 
 
+```
+https://github.com/ManthanUgemuge/MusicWebApp.git
+```
+Run Directly here - [MusicWebApp](https://manthanugemuge.github.io/MusicWebApp/)
 
 
 
