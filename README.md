@@ -1,5 +1,6 @@
 ## BI-Assignment
 
+Board Infinty Assignment 1 
 
 
 ## Tech Stacks Used
