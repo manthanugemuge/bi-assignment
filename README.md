@@ -15,7 +15,7 @@ Board Infinty Assignment 1
 ```
 https://github.com/ManthanUgemuge/MusicWebApp.git
 ```
-Run Directly here - [MusicWebApp](https://manthanugemuge.github.io/MusicWebApp/)
+Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/MusicWebApp/)
 
 
 
