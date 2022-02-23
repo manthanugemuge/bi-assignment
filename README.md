@@ -1,5 +1,10 @@
 ## BI-Assignment
-Board Infinty Assignment 1 
+Board Infinty Assignment 1 </br>
+- Assignment 1
+  - Basic Calculator
+  - Tip Calculator
+  - Stopwatch
+- Assignment 2
 
 
 ## Tech Stacks Used
