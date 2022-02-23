@@ -13,7 +13,7 @@ Board Infinty Assignment 1
 - Download or clone the repository Website : 
 
 ```
-
+https://github.com/ManthanUgemuge/BI-Assignment.git
 ```
 Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/MusicWebApp/)
 
