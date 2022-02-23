@@ -10,6 +10,8 @@ Board Infinty Assignment 1
 
 ## How to use Project
 
+- Download or clone the repository Website : 
+
 
 
 
