@@ -1,5 +1,5 @@
 ## BI-Assignment
-Board Infinty Assignment 1 </br>
+Board Infinty Assignments </br>
 - Assignment 1
   - Basic Calculator
   - Tip Calculator
