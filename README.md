@@ -5,6 +5,7 @@ Board Infinty Assignments </br>
   - Tip Calculator
   - Stopwatch
 - Assignment 2
+  - Color Change
 
 
 ## Tech Stacks Used
