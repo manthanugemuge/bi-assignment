@@ -9,6 +9,8 @@ Board Infinty Assignments </br>
   - Stopwatch
 - Assignment 2
   - Color Change
+  - Random Card Generator
+  - Recipe App
 
 
 ## Tech Stacks Used
