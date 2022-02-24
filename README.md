@@ -21,7 +21,7 @@ Board Infinty Assignments </br>
 ```
 https://github.com/ManthanUgemuge/BI-Assignment.git
 ```
-Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/MusicWebApp/)
+Run Directly here - [BI-Assignment]()
 
 
 
