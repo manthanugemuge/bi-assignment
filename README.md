@@ -34,7 +34,7 @@ In case, applications are not loading, please visit Github Page mentioned below
 ```
 https://github.com/ManthanUgemuge/BI-Assignment.git
 ```
-Run Directly here - [BI-Assignment]()
+Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/BI-Assignment/)
 
 
 
