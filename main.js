@@ -127,3 +127,37 @@ function randomCardSetup(){
 //         }
 //     ]
 // }
+function recipeSetup(){
+
+    recipeObj = JSON.parse(localStorage.getItem('recipeObj'));
+
+    if(recipeObj==null) $('#recipeList').html("No recipe is saved in localStorage");
+    else
+    recipeObj.recipeArr.forEach((robj, index) => {
+        let newliStr = '<li class="rli" onclick="rexpand('+index+')"><span class="recname">'+ robj.name +'</span><div class="recipeinfo"><h6>RECIPE</h6><p>'+ robj.recipe +'</p><h6>INGREDIENTS</h6><ul>';//<li>Water</li><li>More water</li></ul></div></li>';
+        robj.ingredients.forEach(ing => newliStr+="<li>"+ ing +"</li>");
+        newliStr+='</ul></div></li>';
+        $('#recipeList').append(newliStr);
+    });
+
+}
+
+
+function rexpand(n){
+    let rli=document.getElementsByClassName('rli');
+    $('.rli').removeClass('expanded');
+    rli[n].classList.add('expanded');
+
+}
+
+
+function searchFunc(){
+    let filter = document.getElementById('recipeSearch').value.toUpperCase();
+    let rname = document.getElementsByClassName('recname')
+    let li = document.getElementsByClassName('rli');
+
+    for(i=0; i<li.length ; ++i){
+        if(rname[i].innerText.toUpperCase().indexOf(filter) > -1) li[i].style.display = "block";
+        else li[i].style.display = "none";
+    }
+}
