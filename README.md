@@ -29,6 +29,15 @@ https://github.com/ManthanUgemuge/BI-Assignment.git
 Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/BI-Assignment/)
 
 
+IMPORTANT NOTE
+Please make sure that you are evaluating this task on a server.
+The tasks might not load if you are not running the code from server.
+Because this project uses jQuery.load() which doesn't work on direct file access.
+You may use any server software service OR extensions like live server in VS Code.
+
+You can access the application directly from GitHub page on following link.
+In case, applications are not loading, please visit Github Page mentioned below
+
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
