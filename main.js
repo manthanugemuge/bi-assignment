@@ -102,3 +102,28 @@ function randomCardSetup(){
         event.preventDefault();
     })
 }
+
+/*--------------------------------------------------------------*/
+
+//Recipe App
+
+// var recipeObj = {
+//     total : 1,
+//     recipeArr : [
+//         {
+//             name: "Maggi Nuggets",
+//             recipe: "Just create it!",
+//             ingredients: ["Maggi", "Water", "Cheese"]
+//         },
+//         {
+//             name: "Cheese Burst Pizza",
+//             recipe: "Its a bit hard they say!",
+//             ingredients: ["Cheese", "Flour", "Vegetables"]
+//         },
+//         {
+//             name: "McAloo Tikki",
+//             recipe: "Its a secret",
+//             ingredients: ["Tikki", "Bun", "Cheese", "Vegetables"]
+//         }
+//     ]
+// }
