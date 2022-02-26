@@ -47,3 +47,15 @@ function watchReset(){ watchPlay=false; counter=0;
 window.setInterval(stopwatch , 10);
 
 /*-------------------------------------------------------------*/
+
+//Tip Calculator
+
+function updateValue(){ $('#sliderValue').html( $('#slider').val() + "%" ) ;}
+
+function calculateTip(){
+    let ba = parseFloat($('#billAmount').val());
+    let tip= parseFloat((ba * $('#slider').val() / 100).toFixed(2));
+    $('#tipAmount').html("&#8377; " + tip);
+    $('#totalAmount').html("&#8377; " + (ba + tip) );
+}
+
