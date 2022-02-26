@@ -13,3 +13,37 @@ function loadPage(pn){
 
 /*-----------------------------------------------------------------*/
 
+//Stopwatch Section
+
+var counter=0, mcount=0, scount=0, watchPlay=false;
+
+function stopwatch(){
+    if(watchPlay){
+        ++counter;
+        scount=Math.floor(counter/100)%60;
+        mcount=Math.floor(counter/6000);
+        $('#ms').html(counter%100);
+
+        if(scount<10) $('#secs').html('0'+scount);
+        else $('#secs').html(scount);
+
+        if(mcount<10) $('#mins').html('0'+mcount);
+        else $('#mins').html(mcount);
+    }
+}
+
+function watchAction(){ 
+    watchPlay = !watchPlay;
+    if(watchPlay) $('#actionBtn').html('<i class="fas fa-pause"></i> Pause');
+    else $('#actionBtn').html('<i class="fas fa-play"></i> Start');
+}
+
+function watchReset(){ watchPlay=false; counter=0;
+    $('#ms').html('00');
+    $('#mins').html('00');
+    $('#secs').html('00');
+}
+
+window.setInterval(stopwatch , 10);
+
+/*-------------------------------------------------------------*/
