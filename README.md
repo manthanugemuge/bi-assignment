@@ -26,7 +26,6 @@ https://github.com/ManthanUgemuge/BI-Assignment.git
 ```
 Run Directly here - [BI-Assignment](https://manthanugemuge.github.io/BI-Assignment/)
 
-
 IMPORTANT NOTE
 Please make sure that you are evaluating this task on a server.
 The tasks might not load if you are not running the code from server.
