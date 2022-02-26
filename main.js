@@ -81,3 +81,13 @@ function calcAction(){
     eqtn = "";
 }
 
+/*----------------------------------------------------------------*/
+
+//Color Change
+
+function changeColor(color){
+    $('#colorTarget').css('background-color', color);
+}
+
+/*---------------------------------------------------------------*/
+
