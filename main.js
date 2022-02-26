@@ -59,3 +59,25 @@ function calculateTip(){
     $('#totalAmount').html("&#8377; " + (ba + tip) );
 }
 
+/*---------------------------------------------------------------------------*/
+
+//Simple Calculator
+
+var eqtn = "";
+
+function calcClear(){
+    eqtn = "";
+    $('#calcstr').text('');
+    $('#calcResult').text("0");
+}
+
+function calcAdd(symbol){
+    eqtn += symbol;
+    $('#calcstr').text(eqtn);
+}
+
+function calcAction(){
+    $('#calcResult').text( eval(eqtn).toFixed(2) );
+    eqtn = "";
+}
+
