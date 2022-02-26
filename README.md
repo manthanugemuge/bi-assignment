@@ -1,7 +1,6 @@
 ## BI-Assignment
 
 
-
 Board Infinty Assignments </br>
 - Assignment 1
   - Basic Calculator
