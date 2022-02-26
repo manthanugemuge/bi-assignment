@@ -91,3 +91,14 @@ function changeColor(color){
 
 /*---------------------------------------------------------------*/
 
+//Random Card Generator
+var randomCardNum =0;
+
+function randomCardSetup(){
+    $('#cardForm').submit((event)=>{
+        let newCardElement = '<div class="randomCard"><img src="https://picsum.photos/240/150?random='+ (++randomCardNum) +'"><p class="cph">'+ $('#ccname').val() +'</p><p class="cpb">By '+ $('#caname').val() +'</p><p class="cpd">'+ $('#ccd').val() +' hrs</p></div>';
+        $('#rcardgrid').append(newCardElement);
+        $('#cardForm input').val('');
+        event.preventDefault();
+    })
+}
