@@ -2,7 +2,8 @@
 - My Board Infinity Assignments.
 - Simple Web Application using Html, CSS & JavaScript.
 
-Board Infinty Assignments </br>
+Board Infinty Assignments 
+
 - Assignment 1
   - Basic Calculator
   - Tip Calculator
