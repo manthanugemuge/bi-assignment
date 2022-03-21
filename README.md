@@ -2,7 +2,6 @@
 - Simple Web Application using Html, CSS & JavaScript.
 - My Board Infinity Assignments.
 
-
 Board Infinty Assignments 
 
 - Assignment 1
