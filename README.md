@@ -1,4 +1,4 @@
-## BI-Assignment
+## Board Infinity Assignment
 - Simple Web Application using Html, CSS & JavaScript.
 - My Board Infinity Assignments.
 
