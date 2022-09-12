@@ -4,14 +4,15 @@
 
 Board Infinty Assignments 
 
-- Assignment 1
-  - Basic Calculator
-  - Tip Calculator
-  - Stopwatch
-- Assignment 2
-  - Color Change
-  - Random Card Generator
-  - Recipe App
+## 📝 Assignment 1
+ #### 📍 Basic Calculator
+ #### 📍 Tip Calculator
+ #### 📍 Stopwatch
+ 
+## 📝 Assignment 2
+ #### 📍 Color Change
+ #### 📍 Random Card Generator
+ #### 📍 Recipe App
 
 ## Tech Stacks Used
 
