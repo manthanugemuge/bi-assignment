@@ -25,11 +25,11 @@ Board Infinty Assignments
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/BI-Assignment.git
+https://github.com/ManthanUgemuge/bi-assignment.git
 ```
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/BI-Assignment/archive/refs/heads/main.zip) 
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/BI-Assignment/)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/bi-assignment/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/bi-assignment/)
 
 ## IMPORTANT NOTE
 
